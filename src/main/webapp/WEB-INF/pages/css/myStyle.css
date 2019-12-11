@@ -1,0 +1,29 @@
+
+
+#dummy-front{
+	height:100px;
+}
+
+#dummy-tail{
+	height:100px;
+}
+
+
+.my-thead, #page-header{
+	background: #212F3D;
+	color: white;
+}
+
+#myNavbar ul li a{
+	color: #ffffff;
+	background-color:#212F3D;
+}
+#myNavbar ul li a:hover {
+	color: #F9E79F;
+	background-color:#5F6A6A; 
+}
+
+#myNavbar ul li a:visited {
+	color: #F9E79F;
+}
+
